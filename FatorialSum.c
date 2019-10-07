@@ -1,6 +1,6 @@
 /* Accept number from user and return summation of factorial of each digit in that number
 	Input:  123      Output:	9
-	Input:  1478	Output:  45385																			*/
+	Input:  1478	Output:  45385							*/
 	
 #include<stdio.h>
 
