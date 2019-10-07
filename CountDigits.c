@@ -1,6 +1,6 @@
 /* Accept number from user and return number of digits fron that number
-	Input:  323,		1254		-243
-	Output:	3,				4			3						*/
+	Input:    323,	1254   -243
+	Output:	   3,	 4	3				*/
 	
 #include<stdio.h>
 
