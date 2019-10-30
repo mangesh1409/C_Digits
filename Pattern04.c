@@ -1,9 +1,9 @@
 /*Accept number from user and display below pattern
 	Input:		7846
 	Output:		7	
-					7	8	
-					7	8	4	
-					7	8	4	6							*/
+			7	8	
+			7	8	4	
+			7	8	4	6							*/
 
 #include<stdio.h>
 
